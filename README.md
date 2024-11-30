@@ -16,7 +16,8 @@
 
 # Админ. панель
 
-![2024-11-30_10-33-58](https://github.com/user-attachments/assets/312002dd-a368-49bf-8682-035376a13c2f)
+![2024-11-30_11-21-21](https://github.com/user-attachments/assets/94059323-55b9-4341-9abe-d5e416cc8d6c)
+
 
 # Окно теста
 
