@@ -9,9 +9,15 @@
 # Главная
 Авторизация
 
- ![2024-11-30_10-30-25](https://github.com/user-attachments/assets/c28ce5d4-a479-433e-8f22-d303c2817fc2)
+# Логотип
+
+![2024-11-30_10-51-20](https://github.com/user-attachments/assets/e35c9544-0e52-46bc-ad1b-511e59eae6b3)
+
 
 # Админ. панель
+
+ ![2024-11-30_10-30-25](https://github.com/user-attachments/assets/c28ce5d4-a479-433e-8f22-d303c2817fc2)
+
 
 ![2024-11-30_10-33-58](https://github.com/user-attachments/assets/312002dd-a368-49bf-8682-035376a13c2f)
 
