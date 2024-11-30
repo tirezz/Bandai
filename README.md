@@ -2,7 +2,7 @@
 Система тестирования знаний Bandai, создана для обеспечение объективной оценки результатов обучения, которая ориентирована на характеристику освоения содержания курса дисциплины или на дифференциацию учащихся.
 
 # Technology
-* Frontend (React, JavaScript, Angular)
+* Frontend (React, JavaScript)
 * Backend (Java, PHP, Python)
 * Database (MySQL, NoSQL)
 
