@@ -7,4 +7,6 @@
 * Database (MySQL, NoSQL)
 
 # Главная
-Авторизация ![2024-11-30_10-30-25](https://github.com/user-attachments/assets/c28ce5d4-a479-433e-8f22-d303c2817fc2)
+Авторизация
+
+ ![2024-11-30_10-30-25](https://github.com/user-attachments/assets/c28ce5d4-a479-433e-8f22-d303c2817fc2)
