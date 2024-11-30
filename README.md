@@ -13,3 +13,9 @@
 
 Админ. панель
 
+![2024-11-30_10-33-58](https://github.com/user-attachments/assets/312002dd-a368-49bf-8682-035376a13c2f)
+
+Окно теста
+
+![2024-11-30_10-36-41](https://github.com/user-attachments/assets/b6373ae5-638c-454c-be69-4ad132324876)
+
