@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="icon" href="icon.png" type="image/x-icon">
+<title>Система тестирования знаний</title>
+<style>
+body {
+  font-family: 'Arial', sans-serif;
+  margin: 0;
+  display: flex;
+  background-color: #f0f0f0; 
+  color: #333; 
+}
+
+aside {
+  width: 250px;
+  background-color: #ddd; 
+  padding: 20px;
+}
+
+main {
+  flex-grow: 1;
+  padding: 20px;
+}
+
+.profile-header {
+  background-color: #4CAF50; 
+  color: white;
+  padding: 20px;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+footer {
+  background-color: #333;
+  color: white;
+  text-align: center;
+  padding: 10px;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+
+nav ul {
+  list-style: none;
+  padding: 0;
+}
+
+nav li {
+  margin-bottom: 10px;
+}
+
+nav a {
+  text-decoration: none;
+  color: #333;
+  padding: 8px 12px;
+  background-color: #eee;
+  border-radius: 5px;
+  display: block;
+  transition: background-color 0.3s ease;
+}
+
+nav a:hover {
+  background-color: #ddd;
+}
+
+.panel {
+  background-color: #eee; 
+  padding: 15px;
+  margin-bottom: 15px;
+  border-radius: 10px;
+  box-shadow: 2px 2px 5px rgba(0,0,0,0.1);
+}
+
+.panel h3 {
+  margin-top: 0;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
+</style>
+</head>
+<body>
+
+<aside>
+  <nav>
+    <ul>
+      <li><a href="#">Профиль</a></li>
+      <li><a href="#">Тесты</a></li>
+      <li><a href="#">Результаты тестов</a></li>
+      <li><a href="#">Настройки</a></li>
+      <li><a href="#">История пройденных тестов</a></li>
+      <li><a href="#">Помощь</a></li>
+      <li><a href="#">Выйти</a></li>
+    </ul>
+  </nav>
+</aside>
+
+<main>
+  <div class="profile-header">
+    <h2>Добро пожаловать, Вадим!</h2>
+    <p>Система тестирования знаний</p>
+    <img src="profile-picture.jpg" alt="Profile Picture">
+  </div>
+
+  <div class="panel">
+    <h3>Тест 1: Основы программирования</h3>
+    <p>Пройдите этот тест, чтобы проверить свои знания основ программирования.</p>
+    <button>Начать</button>
+  </div>
+
+  <div class="panel">
+    <h3>Тест 2: История России</h3>
+    <p>Проверьте свои знания истории России!</p>
+    <button>Начать</button>
+  </div>
+
+  <div class="panel">
+    <h3>Тест 3: Английский язык</h3>
+    <p>Проверьте свои знания английского языка!</p>
+    <button>Начать</button>
+  </div>
+
+  <img src="test.jpg" width="700" height="600" alt="Test Image">
+</main>
+
+<footer>
+  &copy; 2024 Система тестирования знаний
+</footer>
+
+</body>
+</html>
